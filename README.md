@@ -1,5 +1,5 @@
 # Retail-ETL-Pipeline-using-Python-PostgreSQL
-#  Retail ETL Pipeline using Python & PostgreSQL
+
 
 An end-to-end ETL (Extract, Transform, Load) pipeline built using Python, Pandas, and PostgreSQL to process retail sales data. The pipeline extracts data from multiple CSV files, transforms the data into structured fact and dimension tables, and loads it into a PostgreSQL database for analytical reporting.
 
